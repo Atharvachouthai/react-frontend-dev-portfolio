@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Atharva Chouthai",
+      "titles": [ "Data Scientist", "AI Engineer", "Machine Learning Engineer", "Data Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/atharvachouthai",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/atharva-chouthai-26a287b8/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
@@ -19,50 +19,54 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "class": "devicon-python-plain-wordmark colored",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "PyTorch",
+          "class": "devicon-pytorch-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "class": "devicon-amazonwebservices-plain-wordmark colored",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "90"
+        },
+        {
+          "name": "Keras",
+          "class": "devicon-keras-plain",
+          "level": "70"
+        },
+        {
+          "name": "Tensorflow",
+          "class": "devicon-tensorflow-original",
+          "level": "75"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "85"
+        },
+        {
+          "name": "github",
+          "class": "devicon-github-original",
+          "level": "80"
+        },
+        {
+          "name": "Numpy",
+          "class": "devicon-numpy-plain",
+          "level": "60"
+        },
+        {
+          "name": "Pandas",
+          "class": "devicon-pandas-plain",
           "level": "60"
         }
+          
       ]
     }
   }
